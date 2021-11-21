@@ -1,3 +1,3 @@
 # Multi-Label-Classification-of-Scientific-Abstract
 
-Please refer to the Project report for futher details. 
+Code for ICCVBIC 2021 submission titled "Multilabel Text Classification of Scientific Abstract" (In Press)
